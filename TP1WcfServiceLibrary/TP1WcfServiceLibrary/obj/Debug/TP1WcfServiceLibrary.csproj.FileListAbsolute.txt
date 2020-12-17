@@ -1,0 +1,6 @@
+C:\Users\Huawei\OneDrive\Desktop\ginf3\service\TP1WcfServiceLibrary\TP1WcfServiceLibrary\bin\Debug\TP1WcfServiceLibrary.dll.config
+C:\Users\Huawei\OneDrive\Desktop\ginf3\service\TP1WcfServiceLibrary\TP1WcfServiceLibrary\bin\Debug\TP1WcfServiceLibrary.dll
+C:\Users\Huawei\OneDrive\Desktop\ginf3\service\TP1WcfServiceLibrary\TP1WcfServiceLibrary\bin\Debug\TP1WcfServiceLibrary.pdb
+C:\Users\Huawei\OneDrive\Desktop\ginf3\service\TP1WcfServiceLibrary\TP1WcfServiceLibrary\obj\Debug\TP1WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Huawei\OneDrive\Desktop\ginf3\service\TP1WcfServiceLibrary\TP1WcfServiceLibrary\obj\Debug\TP1WcfServiceLibrary.dll
+C:\Users\Huawei\OneDrive\Desktop\ginf3\service\TP1WcfServiceLibrary\TP1WcfServiceLibrary\obj\Debug\TP1WcfServiceLibrary.pdb
